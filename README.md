@@ -1,8 +1,8 @@
-### Hi there 👋
+### Greetings! Welcome to my personal repository! 👋
 
-I have developed technical skills and am in continuous learning in Mobile and Web development, Frameworks, APIs, notions of Systems Architecture, Git and Github and agile methodologies.
+I am a self-driven learner, emphasizing self-management. This has enabled me to cultivate a diverse skill set, including hardware expertise, English fluency, and strong and relevant soft skills.
 
-I am always seeking knowledge day by day. I can quickly learn what is needed to keep the process going. I believe that we always need to learn, think outside the box and get out of the comfort zone.
+I embrace the concept of Life Hacking, maintaining a curiosity-driven and inquisitive nature. I am committed to continuous self-improvement, striving to optimize and enhance tasks, both in my personal and professional life. In my view, self-management and self-knowledge/awareness are primary skills for achieving success.
 
 <!--
 **RenanPPLima/RenanPPLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
