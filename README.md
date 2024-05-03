@@ -1,6 +1,6 @@
 ### Greetings! Welcome to my personal repository! 👋
 
-I am a self-driven learner, emphasizing self-management. This has enabled me to cultivate a diverse skill set, including hardware expertise, English fluency, and strong and relevant soft skills.
+I am a self-driven learner, emphasizing self-management. This has enabled me to cultivate a diverse skill set, including hardware expertise, English fluency, strong and relevant soft skills.
 
 I embrace the concept of Life Hacking, maintaining a curiosity-driven and inquisitive nature. I am committed to continuous self-improvement, striving to optimize and enhance tasks, both in my personal and professional life. In my view, self-management and self-knowledge/awareness are primary skills for achieving success.
 
